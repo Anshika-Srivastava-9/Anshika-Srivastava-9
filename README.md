@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-316974289.jpg" width="100%" alt="Coding illustration">
+  <img src="https://thumbs.dreamstime.com/b/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-316974289.jpg" width="100%" height="250" alt="Coding illustration">
 </p>
 <h1 align="center">Hi 👋, I'm Anshika Srivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
