@@ -47,14 +47,15 @@
 #### Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas" height="45"/>
 </p>
 
 #### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" height="45"/>
 </p>
 
 ---
