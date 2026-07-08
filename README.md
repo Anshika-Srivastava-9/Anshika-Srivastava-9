@@ -51,21 +51,21 @@
 #### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" height="40"/>
 </p>
 
 #### Libraries
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas" height="40"/>
 </p>
 
 #### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="45"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" height="40"/>
 </p>
 
 ---
