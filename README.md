@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshika Srivastava</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Developer | AI & Data Science Enthusiast
+💻 B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Developer | AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
@@ -29,42 +29,32 @@ B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Developer | AI & Da
 ## 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/anshikasri11">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:srianshika89@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+#### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" height="45"/>
 </p>
 
-### Libraries
+#### Libraries
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" height="45"/>
 </p>
 
-### Tools
+#### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
 </p>
 
 ---
@@ -73,9 +63,9 @@ B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Developer | AI & Da
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshika-Srivastava-9&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshika-Srivastava-9&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshika-Srivastava-9&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-Srivastava-9&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -101,10 +91,10 @@ B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Developer | AI & Da
 
 ---
 
-## 💻 LeetCode Stats
+## 👀 Profile Views
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma"/>
+<img src="https://komarev.com/ghpvc/?username=Anshika-Srivastava-9&style=for-the-badge&color=blueviolet"/>
 
 </p>
