@@ -1,27 +1,159 @@
-<p align="center">
-  <img src="https://thumbs.dreamstime.com/b/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-316974289.jpg" width="100%" height="250" alt="Coding illustration">
-</p>
 <h1 align="center">Hi 👋, I'm Anshika Srivastava</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika-srivastava-9&label=Profile%20views&color=0e75b6&style=flat" alt="anshika-srivastava-9" /> </p>
 
-- 🌱 I’m currently learning **Web Development ,DSA**
+<h3 align="center">
+💻 B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Developer | AI & Data Science Enthusiast
+</h3>
 
-- 📫 How to reach me **srianshika89@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anshika-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-srivastava" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshika_srivastava9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshika_srivastava9" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sriansh95st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sriansh95st" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Full-Stack+Web+Developer;DSA+Learner;AI+%26+Data+Science+Enthusiast;Always+Learning+Something+New+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Anshika-Srivastava-9&style=for-the-badge&color=blueviolet" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshika-srivastava-9&show_icons=true&locale=en&layout=compact" alt="anshika-srivastava-9" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshika-srivastava-9&show_icons=true&locale=en" alt="anshika-srivastava-9" /></p>
+# 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-srivastava-9&" alt="anshika-srivastava-9" /></p>
+🔭 I'm currently building real-world Python and Full-Stack Development projects to strengthen my software development skills.
+
+👯 I'm looking to collaborate on Open Source, Full-Stack Development, and AI-driven projects.
+
+🌱 I'm continuously expanding my skills in Full-Stack Development, Data Structures & Algorithms, Data Science, and Artificial Intelligence.
+
+💬 Ask me about Python, Java, HTML, CSS, JavaScript, Git, GitHub, and beginner-friendly programming.
+
+⚡ Fun fact: I enjoy transforming ideas into real-world projects and believe that consistency is the key to becoming a great developer.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/anshikasri11">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:srianshika89@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/>
+</p>
+
+### Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshika-Srivastava-9&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-Srivastava-9&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anshika-Srivastava-9&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshika-Srivastava-9&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anshika-Srivastava-9&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 💻 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🌐 Full-Stack Web Development
+- 🐍 Python
+- ⚡ Data Structures & Algorithms
+- 📊 Data Science
+- 🤖 Artificial Intelligence
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build Real-World Projects
+- ✅ Solve 200+ DSA Problems
+- ✅ Learn MERN Stack
+- ✅ Master Python
+- ✅ Explore AI & Data Science
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Engineering Internship
+
+---
+
+## ⭐ Quote I Believe In
+
+> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+</p>
