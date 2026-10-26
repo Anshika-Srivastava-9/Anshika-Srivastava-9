@@ -56,50 +56,34 @@ Analysis of e-commerce sales data to explore product categories and business pat
 
 🔗 [Source Code](https://github.com/Anshika-Srivastava-9/E-commerce-Sales-Analysis)
 
-### 🤖 Course Recommendation System
-
-A content-based recommendation system using TF-IDF and cosine similarity to identify relevant courses.
-
-🔗 [Explore Repositories](https://github.com/Anshika-Srivastava-9?tab=repositories)
-
 ### 🌦️ Weather App
 
 A Python-based weather application featuring a graphical interface and weather API integration.
 
 🔗 [Explore Repositories](https://github.com/Anshika-Srivastava-9?tab=repositories)
 
-## 🎓 Certifications
-
-- Data Science certification
-- Data Structures & Algorithms certification
-- Wadhwani Entrepreneurship certification
-- Learnovate-related training/certification
-
-*Add certificate links or exact certificate titles when available.*
-
 ## 💻 Tech Stack
 
-**Languages**
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="Programming Languages"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" height="50" alt="Python, Java, C, HTML, CSS, JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="50" alt="SQL"/>
 </p>
 
-**Data Science & Analytics**
+### Data Science & Analytics
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas" alt="NumPy and Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" height="50" alt="NumPy and Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="50" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" height="50" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="50" alt="Scikit-learn"/>
 </p>
 
-**Tools & Platforms**
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development Tools"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,anaconda" alt="Jupyter and Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,jupyter,anaconda" height="50" alt="Git, GitHub, VS Code, Vercel, Jupyter, Anaconda"/>
 </p>
 
 **Currently Exploring:** Excel, Matplotlib, Seaborn, EDA, and Flask for Data Science applications.
