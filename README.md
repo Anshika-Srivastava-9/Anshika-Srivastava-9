@@ -39,7 +39,10 @@ My portfolio showcases my projects, skills, and development journey.
 
 A hackathon project focused on AI-assisted scam detection, phishing awareness, risk analysis, and safer digital banking experiences for Indian users.
 
-🔗 **Live:** [Vercel Deployment](ADD_SAFESATHI_VERCEL_URL) | **Source:** [GitHub Repository](ADD_SAFESATHI_GITHUB_URL)
+- 🔐 **Focus:** FinTech security and scam prevention
+- 🤖 **Features:** AI-assisted scam triage and risk assessment
+- 🌐 **Live Demo:** [Try SafeSathi](https://safesathi-fintech.vercel.app/)
+- 💻 **Source Code:** [View on GitHub](https://github.com/Anshika-Srivastava-9/safesathi-fintech)
 
 ### 🛒 E-commerce Sales Analysis
 
