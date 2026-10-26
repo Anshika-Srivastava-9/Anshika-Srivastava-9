@@ -41,12 +41,6 @@ A hackathon project focused on AI-assisted scam detection, phishing awareness, r
 
 🔗 **Live:** [Vercel Deployment](ADD_SAFESATHI_VERCEL_URL) | **Source:** [GitHub Repository](ADD_SAFESATHI_GITHUB_URL)
 
-### 📺 Netflix Data Visualization
-
-Exploratory data analysis of Netflix titles using Python and Pandas to investigate content distribution, genres, and trends.
-
-🔗 [Source Code](https://github.com/Anshika-Srivastava-9/Netflix_Data_Visualization)
-
 ### 🛒 E-commerce Sales Analysis
 
 Analysis of e-commerce sales data to explore product categories and business patterns using Python and Pandas.
