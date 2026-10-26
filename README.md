@@ -13,11 +13,8 @@
 CSE undergraduate turning coursework into practical projects in Data Science, AI, and software development.
 
 - 🎓 Pursuing B.Tech in Computer Science & Engineering at BBDNIIT, Lucknow (2023–2027)
-- 📊 Completed SQL fundamentals and worked with Python, Pandas, and NumPy
-- 🌱 Currently progressing toward Excel, Matplotlib, Seaborn, and Exploratory Data Analysis
 - 🤖 Interested in Machine Learning and AI-powered applications
 - 🌐 Deploying websites and projects using Vercel
-- 🐍 Planning to learn Flask for Python-based Data Science applications
 - 🛡️ Recently worked on SafeSathi, an AI-assisted FinTech scam detection project for a hackathon
 - 💼 Open to internships, collaborations, and learning opportunities
 
@@ -67,26 +64,35 @@ A Python-based weather application featuring a graphical interface and weather A
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" height="50" alt="Python, Java, C, HTML, CSS, JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="50" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### Data Science & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" height="50" alt="NumPy and Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="50" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" height="50" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="50" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,jupyter,anaconda" height="50" alt="Git, GitHub, VS Code, Vercel, Jupyter, Anaconda"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
 </p>
-
-**Currently Exploring:** Excel, Matplotlib, Seaborn, EDA, and Flask for Data Science applications.
 
 ## 📊 GitHub Stats
 
