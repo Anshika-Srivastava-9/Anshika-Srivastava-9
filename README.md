@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Python+Developer;Data+Science+Enthusiast;SQL+Completed;Building+AI-Powered+Projects;Deploying+Websites+with+Vercel;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Python+Developer;Data+Science+Enthusiast;Building+AI-Powered+Projects;Deploying+Websites+with+Vercel;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 ## 💫 About Me
